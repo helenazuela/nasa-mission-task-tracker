@@ -30,3 +30,7 @@ The goal of the project is to provide a simple way to organize mission activitie
 GitHub was used to manage the project through Issues, branches, commits, and pull requests.
 
 Five GitHub Issues were created to plan the project tasks. Development was completed using two feature branches, each containing multiple commits and merged into the main branch through pull requests.
+
+## Future Improvements
+
+If the project were developed further, it could include task priorities, deadlines, mission categories, and data storage.
